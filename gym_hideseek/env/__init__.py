@@ -1,0 +1,1 @@
+from gym_hideseek.env.hide_seek import Hider, Seeker
